@@ -7,3 +7,4 @@ else:
 	if thirsty=="yes":
 		print ("Drink Water")
 		print ("Drink SODA")
+		print ("Drink Sting!!!")
