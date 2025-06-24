@@ -4,3 +4,5 @@ if output == "yes":
     print("Configuration, You are one step ahead");
 if output == "no":
     print("Level Up your Linux Career with RHCSA!! ")
+else:
+    print("Please enter Yes/No only! Thank you.")
